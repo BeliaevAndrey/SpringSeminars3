@@ -3,3 +3,12 @@
 Attach screenshot with pull request on GB site.
 
 Remotely added string, directly from GitHub.
+
+***
+Commit 4
+
+Commit 5
+
+Commit 6
+
+Commit 7
